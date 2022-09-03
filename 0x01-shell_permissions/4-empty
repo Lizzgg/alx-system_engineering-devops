@@ -1,2 +1,2 @@
-A README
+#!/bin/bash
 touch hello
